@@ -40,4 +40,5 @@ Currently developing **BookIt Platform**, a cinema ticket-booking engine focused
 ### 📬 Connect With Me
 - **LinkedIn:** [linkedin.com/in/aman-prasad](https://www.linkedin.com/in/aman-prasad-42a88a26b/)
 - **LeetCode:** [leetcode.com/u/BigAman](https://leetcode.com/u/BigAman/)
+- **Scaler:** [scaler.com/academy/profile](https://www.scaler.com/academy/profile/e95d61e1eb48)
 - **Email:** [me.aman.pr@gmail.com](mailto:me.aman.pr@gmail.com)
